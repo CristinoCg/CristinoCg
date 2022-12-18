@@ -31,10 +31,10 @@
 
 ## Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CristinoCg&theme=dracula&hide_border=true&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-## My Gihub
+## My Github
 <a href="https://github.com/CristinoCg/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristinoCg&theme=dracula&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinoCg&layout=compact&theme=dracula"/>
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=CristinoCg&theme=dracula&show_icons=true"/>
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristinoCg&layout=compact&theme=dracula"/>
 </a> 
 
 ## Technologies I use
